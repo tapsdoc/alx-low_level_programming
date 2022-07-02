@@ -16,7 +16,7 @@ int main(void)
 		{
 			putchar(alpha);
 		}
-		ch++;
+		alpha++;
 	}
 	putchar('\n');
 	return (0);
